@@ -7,7 +7,7 @@
 All Pokemon data used in this project comes from [PokeAPI GraphQL Beta](https://pokeapi.co/docs/graphql).  
 Playground: https://beta.pokeapi.co/graphql/console/
 
-All Pokemon images (artwork) comes from https://github.com/PokeAPI/sprites
+All Pokemon images (artwork) comes from https://github.com/bouzayenilyes
 
 ## Getting Started
 
